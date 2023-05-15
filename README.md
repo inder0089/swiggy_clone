@@ -1,1 +1,1 @@
-# swiggy_clone
+# swiggyClone

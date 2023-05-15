@@ -1,0 +1,31 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "description": "This is live course",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inder0089/firstReactProject.git"
+  },
+  "author": "inder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inder0089/firstReactProject/issues"
+  },
+  "homepage": "https://github.com/inder0089/firstReactProject#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.10.0"
+  }
+}
